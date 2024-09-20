@@ -34,6 +34,11 @@ cd <project-name>
 ```
 rm -rf .git
 ```
+or use 
+```
+Remove-Item -Recurse -Force .git
+```
+
 
 4. Install dependencies:
 
